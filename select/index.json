@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Zombie feat. 小林私",
+  "base_artist": "Goat",
+  "createdAt": "2026-02-26T14:06:40.156801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Zombie (feat. Morgan Phalen)",
+      "artist": "Kavinsky",
+      "has_synced": true,
+      "path": "select/01_Zombie_(feat._Morgan_Phalen)_Kavinsky.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Zombie (feat. Ane Flem)",
+      "artist": "Albert Vishi, Ane Flem",
+      "has_synced": true,
+      "path": "select/02_Zombie_(feat._Ane_Flem)_Albert_Vishi,_Ane_Flem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Zombie feat. Panther",
+      "artist": "Black Tiger Sex Machine",
+      "has_synced": true,
+      "path": "select/03_Zombie_feat._Panther_Black_Tiger_Sex_Machine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zombie (feat. Valerie Broussard)",
+      "artist": "ILLENIUM feat. Excision, Wooli & Valerie Broussard",
+      "has_synced": true,
+      "path": "select/04_Zombie_(feat._Valerie_Broussard)_ILLENIUM_feat._Excision,_Wooli_&_Valerie_Broussard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zombie (feat. Valerie Broussard)",
+      "artist": "ILLENIUM/Excision/Wooli/Valerie Broussard",
+      "has_synced": true,
+      "path": "select/05_Zombie_(feat._Valerie_Broussard)_ILLENIUM_Excision_Wooli_Valerie_Broussard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Zombie (feat. John Cooper)",
+      "artist": "We As Human feat. John Cooper",
+      "has_synced": true,
+      "path": "select/06_Zombie_(feat._John_Cooper)_We_As_Human_feat._John_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Zombie feat. Stine Vea Moracchioli",
+      "artist": "Leo Moracchioli",
+      "has_synced": true,
+      "path": "select/07_Zombie_feat._Stine_Vea_Moracchioli_Leo_Moracchioli.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Zombie (feat. Rich Brian)",
+      "artist": "Higher Brothers",
+      "has_synced": false,
+      "path": "select/08_Zombie_(feat._Rich_Brian)_Higher_Brothers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Zombie (feat. Jermaine Jackson)",
+      "artist": "P-Square feat. Jermaine Jackson",
+      "has_synced": true,
+      "path": "select/09_Zombie_(feat._Jermaine_Jackson)_P-Square_feat._Jermaine_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Zombie (feat. Jermaine Jackson)",
+      "artist": "P-Square",
+      "has_synced": true,
+      "path": "select/10_Zombie_(feat._Jermaine_Jackson)_P-Square.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Zombie (feat. Alex Good)",
+      "artist": "Carousel Kings",
+      "has_synced": true,
+      "path": "select/11_Zombie_(feat._Alex_Good)_Carousel_Kings.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Zombie (feat. John Cooper)",
+      "artist": "We As Human",
+      "has_synced": true,
+      "path": "select/12_Zombie_(feat._John_Cooper)_We_As_Human.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Zombie feat. Tech N9ne, Brotha Lynch Hung",
+      "artist": "E-40",
+      "has_synced": true,
+      "path": "select/13_Zombie_feat._Tech_N9ne,_Brotha_Lynch_Hung_E-40.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Zombie (feat. Yavíah)",
+      "artist": "Alexis y Fido",
+      "has_synced": true,
+      "path": "select/14_Zombie_(feat._Yavíah)_Alexis_y_Fido.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Zombie (feat. Valerie Broussard)",
+      "artist": "Illenium",
+      "has_synced": true,
+      "path": "select/15_Zombie_(feat._Valerie_Broussard)_Illenium.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Zombie (feat. PsychoYP, Laycon & A-Q)",
+      "artist": "Blaqbonez feat. Psychoyp, Laycon & AQ",
+      "has_synced": true,
+      "path": "select/16_Zombie_(feat._PsychoYP,_Laycon_&_A-Q)_Blaqbonez_feat._Psychoyp,_Laycon_&_AQ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Zombie (feat. PsychoYP, Laycon & A-Q)",
+      "artist": "Blaqbonez",
+      "has_synced": true,
+      "path": "select/17_Zombie_(feat._PsychoYP,_Laycon_&_A-Q)_Blaqbonez.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Zombie (feat. Yaviah)",
+      "artist": "Alexis y Fido/Yaviah",
+      "has_synced": false,
+      "path": "select/18_Zombie_(feat._Yaviah)_Alexis_y_Fido_Yaviah.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Zombie (Feat. TryHardSister)",
+      "artist": "Tryhardninja",
+      "has_synced": true,
+      "path": "select/19_Zombie_(Feat._TryHardSister)_Tryhardninja.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Zombie feat.小林私",
+      "artist": "Goat",
+      "has_synced": false,
+      "path": "select/pl_01_Zombie_feat.小林私_Goat.txt"
+    }
+  ]
+}
